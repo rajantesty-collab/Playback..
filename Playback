@@ -1,6 +1,6 @@
 {
   "ver": "1.0.0",
-  "force":false,
+  "force":true,
   "upUrl": "https://user-update-link.com",
   "tg": "https://t.me/egal_fantastic",
   "wa": "https://wa.me/xxx",
